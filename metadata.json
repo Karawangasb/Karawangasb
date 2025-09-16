@@ -1,0 +1,16 @@
+{
+  "name": "TOLOLET",
+  "symbol": "TOL",
+  "description": "TOLOLET - Meme Coin Indonesia di Solana",
+  "image": "https://raw.githubusercontent.com/Karawangasb/Karawangasb/refs/heads/main/telolet.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Indonesia"
+    }
+  ]
+}
